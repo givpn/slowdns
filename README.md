@@ -1,4 +1,4 @@
-# Slowdns By Tarap-Kuhing ( ENGLISH )
+# Slowdns ( ENGLISH )
 ```
 * SLOWDNS SCRIPT
 
