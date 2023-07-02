@@ -30,7 +30,6 @@ rm -rf install; apt update; wget https://github.com/givpn/slowdns/raw/master/ins
 
 # Donation Thanks for your support me
 [![Saweria donate button](https://img.shields.io/badge/Donate-Saweria-red)](https://saweria.co/givpn11)
-[![Ko-fi donate button](https://img.shields.io/badge/Donate-Ko--fi-red)](https://ko-fi.com/givpn11)
 [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-blue)](https://paypal.me/givpn11)
 
 # LICENSE
