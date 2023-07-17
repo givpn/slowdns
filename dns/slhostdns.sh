@@ -10,7 +10,7 @@ rm nsdomain
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 subsl=$(</dev/urandom tr -dc a-x0-9 | head -c5)
 DOMAIN=givpn.online
-SUB_DOMAIN=host-${sub}.givpn.online
+SUB_DOMAIN=aot-${sub}.givpn.online
 NS_DOMAIN=aotns-${subsl}.givpn.online
 CF_ID=givpn11@gmail.com
 CF_KEY=f881f9b79d839f0f2f7601f7a7bd18ab8ddda
